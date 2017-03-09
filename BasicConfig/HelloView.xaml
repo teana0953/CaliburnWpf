@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="BasicConfig.HelloView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BasicConfig"
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" 
+             Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="Name" Margin="5"/>
+            <Button Content="Click me!" Margin="5" 
+                    cal:Message.Attach="[Event Click]=[Action SayHello(Name.Text)];
+                    [Event MouseEnter]=[Action Talk('Hello',Name.Text)];
+                    [Event MouseEnter]=[Action Talk('Goodbye',Name.Text)];
+                    "/>
+
+
+        </StackPanel>   
+    </Grid>
+</UserControl>
