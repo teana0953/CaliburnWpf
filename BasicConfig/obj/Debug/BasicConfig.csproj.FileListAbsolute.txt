@@ -23,3 +23,28 @@ C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM_Caliburn_Micr
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.pdb
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\HelloView.g.cs
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\HelloView.baml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\BasicConfig.exe.config
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.exe
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.pdb
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\BasicConfig.exe
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\BasicConfig.pdb
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.dll
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\System.Windows.Interactivity.dll
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.xml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.csprojResolveAssemblyReference.cache
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\HelloView.g.cs
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\ShellView.g.cs
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\App.g.cs
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig_MarkupCompile.cache
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig_MarkupCompile.lref
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\App.baml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\HelloView.baml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\ShellView.baml
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.g.resources
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.Properties.Resources.resources
+C:\Git\MVVM_Caliburn_Micro\BasicConfig\BasicConfig\obj\Debug\BasicConfig.csproj.GenerateResource.Cache
